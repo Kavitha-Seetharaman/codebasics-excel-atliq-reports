@@ -1,4 +1,3 @@
-# codebasics-excel-atliq-reports
 # AtliQ Hardwares — Excel Sales Reports
 
 Five business reports built in Excel using Power Pivot and DAX measures,
